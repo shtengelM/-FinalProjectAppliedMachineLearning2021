@@ -1,6 +1,7 @@
 # Final Project Applied Machine Learning 2021 Ben Gurion University
 
 Students:
+
 Guy Zamostiano  204158976 
 Maayan Shtengel 316408988
 
