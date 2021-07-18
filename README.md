@@ -25,3 +25,7 @@ This is done in the first block of code in the notebook:
 "auth.authenticate_user()"
 (Everyone should have access to the drive)
 If you will not enter the code, the running will not continue. 
+
+
+Link:
+https://colab.research.google.com/drive/1OibJbQMKMFTVbGCyKV8AI0nKrypZ3rqU?usp=sharing
