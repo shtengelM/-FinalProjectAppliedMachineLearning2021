@@ -1,9 +1,7 @@
 # Final Project Applied Machine Learning 2021 Ben Gurion University
 
 Students:
-
-Guy Zamostiano  204158976 
-Maayan Shtengel 316408988
+Guy Zamostiano, Maayan Shtengel
 
 This project's topic is evaluation of perforamce of the method introduced in the paper:
 
