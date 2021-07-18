@@ -20,7 +20,7 @@ How to run the code:
 The code is a Jupter Notebook that can be run.
 
 PLEASE PAY ATTENTION:
-In the running there will be a request to give a code for accessing the google drive where the results will be uploaded by a link.
+In the running there will be a request to give a code for accessing the google drive (by a link) where the results will be uploaded.
 This is done in the first block of code in the notebook:
 "auth.authenticate_user()"
 (Everyone should have access to the drive)
