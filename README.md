@@ -1,4 +1,4 @@
-# -FinalProjectAppliedMachineLearning2021
+# FinalProjectAppliedMachineLearning2021
  Final Project Applied Machine Learning 2021 Ben Gurion University
 
 Students:
