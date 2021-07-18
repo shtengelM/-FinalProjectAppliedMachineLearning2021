@@ -11,7 +11,7 @@ Ira Shavitt  Weizmann Institute of Science
 Eran Segal Weizman Institute of Science
 
 arXiv:1805.06440v3 [stat.ML] 23 Oct 2018
-https://arxiv.org/abs/*1805.06440*
+https://arxiv.org/abs/1805.06440
 
 based on the papar's code: https://github.com/irashavitt/regularization_learning_networks
 
